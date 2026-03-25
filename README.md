@@ -48,7 +48,7 @@ ip address 192.168.1.1 255.255.255.0
 no shutdown
 ```
 ### Router IP Assignment (CLI Output)
-![Router IP Configuration](router-ip.png)
+![Router IP Configuration](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/routrtipassign.png)
 
 ---
 
