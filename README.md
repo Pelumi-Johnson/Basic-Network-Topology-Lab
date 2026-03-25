@@ -38,7 +38,7 @@ no shutdown
 
 Assigned static IP addresses to both PCs and configured the default gateway.
 
-![IP Configuration](ip-config.png)
+![IP Configuration](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/ipconfiguration.png)
 
 PC0
 - IP Address: 192.168.1.10
