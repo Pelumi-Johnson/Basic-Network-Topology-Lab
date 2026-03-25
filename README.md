@@ -39,6 +39,17 @@ no shutdown
 ### Router CLI Output
 ![Router CLI](router-cli.png)
 
+### Router IP Configuration
+
+Assigned an IP address to the router interface to serve as the default gateway for devices on the network.
+```
+interface gigabitEthernet 0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+```
+### Router IP Assignment (CLI Output)
+![Router IP Configuration](router-ip.png)
+
 ---
 
 ### IP Addressing
