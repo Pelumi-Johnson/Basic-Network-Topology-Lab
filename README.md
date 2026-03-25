@@ -7,7 +7,7 @@ Understand how network devices connect and communicate within the same network b
 
 ## 🧱 Network Design
 
-![Topology]([topology.png](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/Topology.png))
+![Topology](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/Topology.png)
 
 The topology includes:
 - 1 Router (1941)
@@ -35,6 +35,10 @@ no shutdown
 ---
 
 ### IP Addressing
+
+Assigned static IP addresses to both PCs and configured the default gateway.
+
+![IP Configuration](ip-config.png)
 
 PC0
 - IP Address: 192.168.1.10
