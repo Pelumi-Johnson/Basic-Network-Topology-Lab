@@ -37,7 +37,7 @@ no shutdown
 ```
 
 ### Router CLI Output
-![Router CLI](router-cli.png)
+![Router CLI](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/routeripconfig.png)
 
 ### Router IP Configuration
 
