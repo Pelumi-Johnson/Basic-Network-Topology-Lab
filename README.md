@@ -117,7 +117,3 @@ ping 192.168.1.11
 - Developed foundational understanding of network communication
 
 ---
-
-## 📸 Topology
-
-![Network Topology](topology.png)
