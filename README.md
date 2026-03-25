@@ -25,6 +25,9 @@ All devices were connected using copper straight-through cables.
 
 ## ⚙️ Configuration
 
+Enabled the router interface to allow communication between devices.
+                    
+
 ### Router Interface Activation
 ```
 enable
@@ -32,6 +35,10 @@ configure terminal
 interface gigabitEthernet 0/0
 no shutdown
 ```
+
+### Router CLI Output
+![Router CLI](router-cli.png)
+
 ---
 
 ### IP Addressing
