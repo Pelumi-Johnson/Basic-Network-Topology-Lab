@@ -7,7 +7,7 @@ Understand how network devices connect and communicate within the same network b
 
 ## 🧱 Network Design
 
-![Topology](topology.png)
+![Topology]([topology.png](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/Topology.png))
 
 The topology includes:
 - 1 Router (1941)
