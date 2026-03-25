@@ -61,7 +61,7 @@ no shutdown
 
 Used the ping command to verify communication between devices.
 
-![Ping Test](ping-test.png)
+![Ping Test](https://github.com/Pelumi-Johnson/Basic-Network-Topology-Lab/blob/main/ping.png)
 
 ping 192.168.1.11
 
