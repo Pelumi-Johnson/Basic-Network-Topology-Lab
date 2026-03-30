@@ -1,4 +1,4 @@
-# 🖧 Day 1 | Basic Network Topology Lab
+# 🖧 Basic Network Topology Lab
 
 ## 🎯 Objective
 Understand how network devices connect and communicate within the same network by building a simple topology in Cisco Packet Tracer.
